@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vite": "^0.3.2",
+    "vite": "^2.9.13",
     "vue": "^3.0.0-beta.3"
   }
 }
